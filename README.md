@@ -2,10 +2,11 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · official-sync · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置 · 网络排查 · 晚高峰 · connection troubleshooting · light-edit · 命令行代理 · Codex CLI · npm 代理 · pip 代理 · Git 代理 · Docker 代理 · HTTP_PROXY · SOCKS5 · Perplexity 登录失败 · Grok 打不开 · Midjourney 登录 · AI 工具网络排查 · Discord 账号关联 · 登录链接过期 · 出口 IP · 服务状态 · 代理模式
+关键词：Shadowrocket · 小火箭订阅导入 · official-sync · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置 · 网络排查 · 晚高峰 · connection troubleshooting · light-edit · 命令行代理 · Codex CLI · npm 代理 · pip 代理 · Git 代理 · Docker 代理 · HTTP_PROXY · SOCKS5 · Perplexity 登录失败 · Grok 打不开 · Midjourney 登录 · AI 工具网络排查 · Discord 账号关联 · 登录链接过期 · 出口 IP
 
 ## 教程
 
+- [Shadowrocket 小火箭 iPhone/iPad 订阅导入与连接排查](docs/tutorials/shadowrocket-iphone-ipad-subscription-guide.md)
 - [云小狐官方客户端安装与登录教程：Windows、macOS、Android 一键连接](docs/tutorials/yunxiaohu-official-client-install-login-guide.md)
 - [2026 年 10 月命令行代理配置指南：Codex、npm、pip、Git、Docker 怎么走代理](docs/tutorials/command-line-proxy-codex-npm-pip-git-docker.md)
 - [2026 年 10 月代理模式指南：规则、全局、直连与 TUN 怎么选](docs/tutorials/proxy-modes-rules-global-direct-tun.md)
