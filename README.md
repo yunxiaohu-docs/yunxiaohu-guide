@@ -2,7 +2,7 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：Clash Verge Rev · Windows 订阅导入 · official-sync · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置 · 网络排查 · 晚高峰 · connection troubleshooting · light-edit · 命令行代理 · Codex CLI · npm 代理 · pip 代理 · Git 代理 · Docker 代理 · HTTP_PROXY · SOCKS5 · Perplexity 登录失败 · Grok 打不开 · Midjourney 登录 · AI 工具网络排查 · Discord 账号关联
+关键词：ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · official-sync · Clash Verge Rev · Windows 订阅导入 · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置 · 网络排查 · 晚高峰 · connection troubleshooting · light-edit · 命令行代理 · Codex CLI · npm 代理 · pip 代理 · Git 代理 · Docker 代理 · HTTP_PROXY · SOCKS5 · Perplexity 登录失败
 
 ## 教程
 
@@ -23,6 +23,7 @@
 
 ## 常见问题
 
+- [AI 工具频繁掉线与反复登录：ChatGPT、Claude、Gemini 会话排查指南](docs/faq/ai-tools-frequent-logout-login-troubleshooting.md)
 - [2026 年 10 月连不上或速度慢怎么办？云小狐连接问题排查顺序](docs/faq/2026-10-connection-troubleshooting.md)
 - [2026 年 10 月 AI 工具登录失败排查：Perplexity、Grok、Midjourney 打不开怎么办](docs/faq/ai-tools-login-troubleshooting-perplexity-grok-midjourney.md)
 - [2026 年 10 月 Claude unavailable 或登录不上：地区、网络与手机号验证排查](docs/faq/claude-unavailable-login-troubleshooting.md)
