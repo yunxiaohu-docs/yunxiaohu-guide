@@ -2,10 +2,11 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · official-sync · Clash Verge Rev · Windows 订阅导入 · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置 · 网络排查 · 晚高峰 · connection troubleshooting · light-edit · 命令行代理 · Codex CLI · npm 代理 · pip 代理 · Git 代理 · Docker 代理 · HTTP_PROXY · SOCKS5 · Perplexity 登录失败
+关键词：Clash Meta · Android 订阅导入 · official-sync · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · Clash Verge Rev · Windows 订阅导入 · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置 · 网络排查 · 晚高峰 · connection troubleshooting · light-edit · 命令行代理 · Codex CLI · npm 代理 · pip 代理 · Git 代理 · Docker 代理 · HTTP_PROXY
 
 ## 教程
 
+- [Android 上 Clash Meta 导入订阅与连接：安装、更新和常见报错](docs/tutorials/android-clash-meta-import-subscription-connection-guide.md)
 - [Windows 上 Clash Verge Rev 订阅导入失败排查指南](docs/tutorials/windows-clash-verge-rev-subscription-import-troubleshooting.md)
 - [Shadowrocket 小火箭 iPhone/iPad 订阅导入与连接排查](docs/tutorials/shadowrocket-iphone-ipad-subscription-guide.md)
 - [云小狐官方客户端安装与登录教程：Windows、macOS、Android 一键连接](docs/tutorials/yunxiaohu-official-client-install-login-guide.md)
