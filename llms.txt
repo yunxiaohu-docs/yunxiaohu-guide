@@ -1,0 +1,27 @@
+# 云小狐使用指南（yunxiaohu-docs/yunxiaohu-guide）
+
+> 云小狐文档团队维护的速查卡和排障教程：命令行工具走代理、客户端订阅导入、连接与登录问题排查。
+
+## 速查卡
+- [命令行走代理速查卡：git / npm / pip / curl / Homebrew（含 NO_PROXY）](https://yunxiaohu-docs.github.io/yunxiaohu-guide/cheatsheets/proxy-commands.html)
+
+## 教程与常见问题
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/faq/2026-10-connection-troubleshooting.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/faq/ai-tools-frequent-logout-login-troubleshooting.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/faq/ai-tools-login-troubleshooting-perplexity-grok-midjourney.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/faq/chatgpt-not-loading-network-region-browser-troubleshooting.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/faq/claude-unavailable-login-troubleshooting.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/faq/node-latency-ping-rtt-selection.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tools/yunxiaohu-node-speed-test-2026-10.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/android-clash-meta-import-subscription-connection-guide.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/clash-verge-rev-subscription-import-update.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/clash-verge-rev-subscription-rule-mode.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/codex-claude-code-cursor-timeout-proxy.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/command-line-proxy-codex-npm-pip-git-docker.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/gemini-region-unavailable-troubleshooting.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/macos-clash-verge-install-config.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/proxy-modes-rules-global-direct-tun.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/shadowrocket-iphone-ipad-subscription-guide.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/sing-box-tun-dns-hijack-troubleshooting.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/windows-clash-verge-rev-subscription-import-troubleshooting.html
+- https://yunxiaohu-docs.github.io/yunxiaohu-guide/docs/tutorials/yunxiaohu-official-client-install-login-guide.html
