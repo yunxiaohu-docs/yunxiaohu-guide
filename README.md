@@ -2,10 +2,11 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · official-sync · Nextin · Clash Meta · Clash Verge · macOS 代理设置 · Android 订阅导入 · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · Clash Verge Rev · Windows 订阅导入 · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置 · 网络排查 · 晚高峰 · connection troubleshooting · light-edit · 命令行代理
+关键词：云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta · Clash Verge · macOS 代理设置 · Android 订阅导入 · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · Clash Verge Rev · Windows 订阅导入 · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置 · 网络排查 · 晚高峰 · connection troubleshooting · light-edit
 
 ## 教程
 
+- [新手快速开始云小狐：套餐、客户端与订阅导入](docs/tutorials/yunxiaohu-quick-start-client-subscription.md)
 - [Nextin iOS 使用指南：在 iPhone 与 iPad 导入 Clash Meta 订阅](docs/tutorials/nextin-ios-clash-meta-subscription.md)
 - [macOS 安装 Clash Verge：Apple 芯片与 Intel 版选择、订阅导入及代理设置](docs/tutorials/macos-clash-verge-install-config.md)
 - [Android 上 Clash Meta 导入订阅与连接：安装、更新和常见报错](docs/tutorials/android-clash-meta-import-subscription-connection-guide.md)
