@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yunxiaohu-docs.github.io/yunxiaohu-guide/sitemap.xml
