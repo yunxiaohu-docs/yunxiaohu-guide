@@ -2,7 +2,7 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：sing-box · TUN 配置 · inet4_address · address 字段 · 云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta · Clash Verge · macOS 代理设置 · Android 订阅导入 · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · Clash Verge Rev · Windows 订阅导入 · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择 · 订阅更新 · 客户端设置
+关键词：每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置 · inet4_address · address 字段 · 云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta · Clash Verge · macOS 代理设置 · Android 订阅导入 · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · Clash Verge Rev · Windows 订阅导入 · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题 · 速度慢 · 节点选择
 
 ## 教程
 
@@ -28,6 +28,7 @@
 
 ## 常见问题
 
+- [每月流量怎么选：50GB、100GB、200GB、500GB 使用量估算指南](docs/faq/monthly-traffic-50gb-100gb-200gb-500gb-guide.md)
 - [ChatGPT 网页版、桌面版与 App 怎么选：打不开时的排查顺序](docs/faq/chatgpt-web-desktop-app-troubleshooting.md)
 - [AI 工具频繁掉线与反复登录：ChatGPT、Claude、Gemini 会话排查指南](docs/faq/ai-tools-frequent-logout-login-troubleshooting.md)
 - [2026 年 10 月连不上或速度慢怎么办？云小狐连接问题排查顺序](docs/faq/2026-10-connection-troubleshooting.md)
