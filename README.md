@@ -2,10 +2,11 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置 · inet4_address · address 字段 · 云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta · Clash Verge · macOS 代理设置 · Android 订阅导入 · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · Clash Verge Rev · Windows 订阅导入 · Shadowrocket · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装 · 连接问题
+关键词：境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置 · inet4_address · address 字段 · 云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta · Clash Verge · macOS 代理设置 · Android 订阅导入 · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · Clash Verge Rev · Windows 订阅导入 · 小火箭订阅导入 · 云小狐客户端 · Windows macOS Android 登录 · VPN 客户端安装
 
 ## 教程
 
+- [iPhone 境外 Apple ID 注册与共享账号安全下载 Shadowrocket、Nextin](docs/tutorials/iphone-overseas-apple-account-shadowrocket-nextin.md)
 - [云小狐订阅购买、续费与流量包操作指南](docs/tutorials/yunxiaohu-purchase-renewal-traffic-pack-guide.md)
 - [sing-box TUN 配置报错：inet4_address 如何迁移到 address](docs/tutorials/sing-box-tun-inet4-address-migrate.md)
 - [新手快速开始云小狐：套餐、客户端与订阅导入](docs/tutorials/yunxiaohu-quick-start-client-subscription.md)
