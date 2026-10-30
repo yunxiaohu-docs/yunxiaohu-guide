@@ -2,10 +2,11 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：订阅链接泄露 · 分享链接轮换 · 订阅链接 · Clash · 境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置 · inet4_address · address 字段 · 云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta · Clash Verge · macOS 代理设置 · Android 订阅导入 · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环 · Clash Verge Rev · Windows 订阅导入
+关键词：Mihomo 规则命中 · RULE-SET 配置 · 订阅链接泄露 · 分享链接轮换 · 订阅链接 · Clash · 境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置 · inet4_address · address 字段 · 云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta · Clash Verge · macOS 代理设置 · Android 订阅导入 · ChatGPT 登录失败 · Claude 反复登录 · Gemini Something went wrong · Cloudflare 验证循环
 
 ## 教程
 
+- [Mihomo 规则命中排查：用最小配置验证 RULE-SET 顺序](docs/tutorials/mihomo-rule-set-minimal-verification.md)
 - [订阅链接怎么导入与更新：Clash、sing-box 客户端完整指南](docs/tutorials/subscription-link-import-update-guide.md)
 - [iPhone 境外 Apple ID 注册与共享账号安全下载 Shadowrocket、Nextin](docs/tutorials/iphone-overseas-apple-account-shadowrocket-nextin.md)
 - [云小狐订阅购买、续费与流量包操作指南](docs/tutorials/yunxiaohu-purchase-renewal-traffic-pack-guide.md)
