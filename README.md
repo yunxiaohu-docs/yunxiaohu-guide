@@ -2,7 +2,7 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：Mihomo · rule-providers format · geodata-mode · Mihomo 配置检查 · proxy-groups · Mihomo 规则命中 · RULE-SET 配置 · 订阅链接泄露 · 分享链接轮换 · 订阅链接 · Clash · 境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置 · inet4_address · address 字段 · 云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta · Clash Verge · macOS 代理设置
+关键词：Mihomo proxy-server-nameserver-policy · rule-set 启动解析 · Mihomo · rule-providers format · geodata-mode · Mihomo 配置检查 · proxy-groups · Mihomo 规则命中 · RULE-SET 配置 · 订阅链接泄露 · 分享链接轮换 · 订阅链接 · Clash · 境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置 · inet4_address · address 字段 · 云小狐 · 订阅导入 · ChatGPT打不开 · ChatGPT App · ChatGPT网页版 · Nextin · Clash Meta
 
 ## 教程
 
@@ -34,6 +34,7 @@
 
 ## 常见问题
 
+- [Mihomo proxy-server-nameserver-policy：启动时 rule-set 不生效怎么办](docs/faq/mihomo-proxy-server-nameserver-policy-rule-set-startup.md)
 - [Mihomo 配置检查报错怎么排查：-t、proxy-groups 与 proxy-providers](docs/faq/mihomo-config-check-proxy-groups-providers.md)
 - [订阅链接泄露后的处理：分享链接轮换与接入凭证重置](docs/faq/subscription-link-leak-rotation-and-credential-reset.md)
 - [每月流量怎么选：50GB、100GB、200GB、500GB 使用量估算指南](docs/faq/monthly-traffic-50gb-100gb-200gb-500gb-guide.md)
