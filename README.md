@@ -2,7 +2,7 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：sing-box format · JSON 配置格式化 · sing-box check · sing-box 配置检查 · Mihomo · unified-delay · proxy-providers override udp · Mihomo include-all · Clash Meta 策略组 · Mihomo proxy-server-nameserver-policy · rule-set 启动解析 · rule-providers format · geodata-mode · Mihomo 配置检查 · proxy-groups · Mihomo 规则命中 · RULE-SET 配置 · 订阅链接泄露 · 分享链接轮换 · 订阅链接 · Clash · 境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置 · inet4_address
+关键词：Mihomo · convert-ruleset · sing-box format · JSON 配置格式化 · sing-box check · sing-box 配置检查 · unified-delay · proxy-providers override udp · Mihomo include-all · Clash Meta 策略组 · Mihomo proxy-server-nameserver-policy · rule-set 启动解析 · rule-providers format · geodata-mode · Mihomo 配置检查 · proxy-groups · Mihomo 规则命中 · RULE-SET 配置 · 订阅链接泄露 · 分享链接轮换 · 订阅链接 · Clash · 境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置
 
 ## 教程
 
@@ -35,6 +35,7 @@
 
 ## 工具
 
+- [Mihomo convert-ruleset 怎么用：YAML/TXT 规则转换为 MRS](docs/tools/mihomo-convert-ruleset-mrs.md)
 - [2026 年 10 月云小狐节点测速：28 个节点延迟、速度与流媒体解锁实测](docs/tools/yunxiaohu-node-speed-test-2026-10.md)
 
 ## 常见问题
