@@ -2,10 +2,11 @@
 
 > 官网：[云小狐](https://www.yunxiaohu.com/) · 本仓库整理 云小狐 的使用教程、相关工具和常见问题，持续更新。
 
-关键词：Mihomo · convert-ruleset · sing-box format · JSON 配置格式化 · sing-box check · sing-box 配置检查 · unified-delay · proxy-providers override udp · Mihomo include-all · Clash Meta 策略组 · Mihomo proxy-server-nameserver-policy · rule-set 启动解析 · rule-providers format · geodata-mode · Mihomo 配置检查 · proxy-groups · Mihomo 规则命中 · RULE-SET 配置 · 订阅链接泄露 · 分享链接轮换 · 订阅链接 · Clash · 境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB · sing-box · TUN 配置
+关键词：Mihomo -t · 配置文件检查 · Mihomo · convert-ruleset · sing-box format · JSON 配置格式化 · sing-box check · sing-box 配置检查 · unified-delay · proxy-providers override udp · Mihomo include-all · Clash Meta 策略组 · Mihomo proxy-server-nameserver-policy · rule-set 启动解析 · rule-providers format · geodata-mode · Mihomo 配置检查 · proxy-groups · Mihomo 规则命中 · RULE-SET 配置 · 订阅链接泄露 · 分享链接轮换 · 订阅链接 · Clash · 境外 Apple ID · Shadowrocket · 云小狐续费 · 流量包购买 · 每月流量怎么选 · 50GB 100GB 200GB 500GB
 
 ## 教程
 
+- [Mihomo -t 怎么用：指定配置文件与配置目录检查](docs/tutorials/mihomo-t-config-check.md)
 - [sing-box format 怎么用：先预览再写回 JSON 配置](docs/tutorials/sing-box-format-json-preview-write.md)
 - [sing-box check 怎么用：启动前验证配置文件的最小排查流程](docs/tutorials/sing-box-check-config-validation.md)
 - [Mihomo unified-delay 怎么写：统一延迟配置与异常排查](docs/tutorials/mihomo-unified-delay-config.md)
